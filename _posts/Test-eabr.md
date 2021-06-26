@@ -1,3 +1,0 @@
-memek🗿
-
-<code> kentox </code>
