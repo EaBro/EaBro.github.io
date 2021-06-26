@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 📁 Project
-email: mynameanasrar@gmail.com
-description: Just My Project List
+title: EaBro
+email: eabro@gmail.com
+description: Ea Bro
 phone_number: 0800 - 0000 - 0000
-baseurl: "/project" # the subpath of your site, e.g. /blog
-url: "https://anasrar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/eabro" # the subpath of your site, e.g. /blog
+url: "https://eabro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-discus_identifier: anasrar # Add your Disqus identifier
+discus_identifier: eabro # Add your Disqus identifier
 google_site_verification : "p2LcVEQMJMq_5jG4fS7Bh4K4x6s3pDjV_GUrkX8d4WU" # Add your Google Site Verification
 google_analytics: "UA-133576589-1" # Add your GA Tracking Id
 theme_color: "#007bff" # Meta theme-color
@@ -46,18 +46,18 @@ defaults:
     values:
       layout: "post"
       image : "/Bersih/assets/images/thumb.png" # Default Thumbnail
-      author: "Anas RAR" # Default Author Name On Post
+      author: "EaBro" # Default Author Name On Post
   -
     scope: # Default Front Matter For Global File
       path: ""
     values:
-      author: "Anas RAR"  # Default Author Name On Global File
+      author: "EaBro"  # Default Author Name On Global File
 
 social:
-  name: "Anas RAR"
+  name: "EaBro"
   links:
-    - https://github.com/anasrar
-    - https://codepen.io/anasrar
+    - /
+    - /
 
 exclude:
  - README.md
